@@ -1,0 +1,5 @@
+jlcpcb/production_files/**
+jlcpcb/gerber/**
+!jlcpcb/project.db
+
+**/.svg2shenzhen-cache/**
